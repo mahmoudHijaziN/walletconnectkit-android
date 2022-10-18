@@ -66,7 +66,7 @@ dependencies {
     implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.5.2'
     implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.2'
     // WalletConnect
-    api 'com.github.walletconnect:kotlin-walletconnect-lib:0.9.8'
+    api 'com.github.walletconnect:kotlin-walletconnect-lib:0.9.9'
     implementation 'com.github.komputing:khex:1.1.2'
     // Web3
     implementation 'org.web3j:utils:5.0.0'
